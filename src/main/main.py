@@ -10,7 +10,7 @@ class Main():
     # Use a breakpoint in the code line below to debug your script.
  #   print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX TEST CODE PUT HDFS XXXXXXXXXXXXXXXXXXX')
-    DataEquipementsPannes.put_hdfs();
+    #DataEquipementsPannes.put_hdfs();
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
